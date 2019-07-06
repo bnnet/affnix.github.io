@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/theanidox
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://bitnovanetwork.me
+  * I am theanidox (https://keybase.io/theanidox) on keybase.
+  * I have a public key with fingerprint 281C 0505 7A16 6676 1E1D  408E 57BA 5A3B E85A 04D3
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012007d9f5516ac7a946613074cafd21e564761c7d73800191a0eba893e71d0aec060a",
+      "fingerprint": "281c05057a1666761e1d408e57ba5a3be85a04d3",
+      "host": "keybase.io",
+      "key_id": "57ba5a3be85a04d3",
+      "kid": "0101d8cb5ffe1f482cb7e9687f921a3e78bdea7c5554dffb353e2a24fb18593141bc0a",
+      "uid": "86cb0fe9905b7aae012c999b0db2a619",
+      "username": "theanidox"
+    },
+    "service": {
+      "hostname": "bitnovanetwork.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1516040269,
+  "expire_in": 157680000,
+  "prev": "4db17c36ecf7272eb0d8c9161d0f9e4ce719ded81f0262e00293c0f8155adffe",
+  "seqno": 48,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNzAnicbVJrUFVVGL0X0AIkSPDByI88TEMC4t7nfUDFZBxmfMyAEiAw4T777ANH
+8F6491wQEHUGFCoidMgKQRIHiB46gJQRk4DQixx0SJwepihk6YhGJaKm7cvov37t
+2d9ea+31re8b8PO0+FhTutNifk/zGrEO9TW4LGkZdzaVMKpdK2KiS5gcMnuQXI04
+zcwcQ2OiGQBZACRN0QUBighLSOFFEXJA4jHSNRYSQeQlEWJJkzgZAKhABIiKZIUj
+EtQAIhiIADGRjG7Ysogjz2HYTCrLyhADAQgSgqIoUgECNR7IRJBUJCBOJbKAAK9x
+lJhtd7oZ1JyKnCTKsNMavWTO2vsf/FPfAGoyVgVdJ1DnZRarElFEWdIVFiJqTlY1
+giQsCAKv6brKCRxhEcvrKpQFhYM8VPGsb9esnCxiFehEUYCgSggRGgtWFEUFmsoi
+ESpuoJM4bGgHoWgzmyCbodl3MqWRDC0XGJi4k3W38gSiGqbNXoBsxCy0O3KiaC2S
+yXPYTTu259LnbNPMi3azzaI8N7yQqJlPhDJVw6bRMCmhgDicht3GREOKxKbhVoZ0
+ToAHrKhEMmRnnuEgmYYbIUginQ8A7m9IAZXkNRVKmBMJ1iVWYgntRcYKFOnUdIXw
+mM5P0YgmQ52KsQQAVuEw0GUoCIgm5jbsJPk2OxPNy9QnyqKaTiPLhkyXgzCl/X0Z
+Xharj2XuHA/3lll8vAOe7t7iCv9H8hvvLC+q3ZLd0DqcdbXBvKs3KNnLfm1Eg/XJ
+Ez0/jnVenvPp2l3ymOci9kSwtLS/OH3qYXdNWhn3TNiBS/PRyYzC9qTfEldnHXJN
+zJWvVOyxwoBNVS+tlRw/f7Eo/f6GwO0rvuEmXj8YEqcdSJgJt1nMxOkOf99Vw/XL
+EjrWdwYVBAfXtTQtHPI5MYDz2WvNH5yKUuoutka8HD/9/GSM79R002gW9EXrTGlX
+yinc00rCC8+P1zkfziQ9Oug/Gvfe5qO/FP/0z52VtqjM8te+Gm2uvo7NxricVL++
+G0zbuVduvtgWcX+juhD2LA/uGozpuVUjLlmVEFaPC9dMXtoWXvp496vj+WW5Io5r
+7/X+bPN4ufVe5JtnNr6/sirEU42IdQ2p1hWXTsfNJDcZO85Op1mYMq/q+PVfvtX1
+uGXL0v7E75MfdYR07ve7EvGJh+vcd5PjP5SMxFwL9eitzMmuPHRstxR6T/C78Gx6
+1dv7sBJwMWWga7v3iLXxj/H+88GToXGntx6uym0NkWKD+Pa9Rz7OuD3/ZiDbDJix
+D7UlWz8qv7DXIzXF0hM/3HvXlXpjXcqt2orjz4XNdAcqLzSvmbehsq22+s8Z4d3D
++fNqJhYc3WMcSwgKWR2i4b/3K6Hc1ePbXKktxf2xt08WBH37+eWvffY9eLDYmrx+
+ij17pHbBmQOd/yaNXP9LGPwP0pa99w==
+=t3Dg
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/theanidox
+
+==================================================================
